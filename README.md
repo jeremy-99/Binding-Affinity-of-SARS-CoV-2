@@ -10,4 +10,4 @@ To evaluate the trained model's predictions on the coronavirus:
 2. Embed the peptides with embed_coronavirus_peptides.ipynb
 3. Evaluate with eval_on_coronavirus.ipynb
 
-eval_on_coronavirus.pdf shows our results in PDF format.
+Coronavirus Results.pdf shows the eval_on_coronavirus.ipynb results as a PDF.
